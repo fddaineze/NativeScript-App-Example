@@ -1,6 +1,6 @@
 ![last commit badge](https://badgen.net/github/last-commit/fddaineze/NativeScript-App-Example) ![license badge](https://badgen.net/github/license/fddaineze/NativeScript-App-Example) ![commits badge](https://badgen.net/github/commits/fddaineze/NativeScript-App-Example) ![github badge](https://badgen.net/badge/icon/github?icon=github&label)
 
-##UTILIZANDO NATIVESCRIPT + VUE PELA PRIMEIRA VEZ (Windows)
+##UTILIZANDO NATIVESCRIPT + VUE PELA PRIMEIRA VEZ NO WINDOWS
 
 - [Documentação Oficial](https://docs.nativescript.org/start/quick-setup)
 1. [Instalação-do-pacote](#1.-Instalação-do-pacote)
@@ -12,9 +12,10 @@
 ---
 
 ####1. Instalação do pacote
+
 Primeiramente é necessário executar a linha de comando abaixo em modo **administrador**
 
-> ###### *Pressione a tecla Windows > Digite "CMD" > Botão direito > Executar como administrador*
+###### *Pressione a tecla Windows > Digite "CMD" > Botão direito > Executar como administrador*
 
 ```bash
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://www.nativescript.org/setup/win'))"
@@ -34,6 +35,7 @@ Este comando verifica se os softwares necessários estão instalados, caso sim, 
 - Android Studio
 
 ####Obs: confira se as variáveis de ambiente do JAVA estão corretamente configuradas:
+
 As duas variáveis ​​de ambiente `JAVA_HOME` e `ANDROID_HOME` são necessárias para o desenvolvimento em Android, que deveriam ter sido automaticamente adicionadas como parte da instalação:
 
 - Feche qualquer janela de comando do windows
@@ -42,6 +44,7 @@ As duas variáveis ​​de ambiente `JAVA_HOME` e `ANDROID_HOME` são necessár
 - execute `echo %ANDROID_HOME%` and make sure a valid path is returned
 
 ####2. Instalação do NativeScript CLI
+
 A instalação do NativeScript CLI é realizada via npm, portanto, não há segredo:
 ```bash
 npm install -g nativescript
@@ -52,6 +55,7 @@ npm install -g @vue/cli
 ```
 
 ####3. Criando o Projeto
+
 Vamos começar com o template basico para **VUE** (lembrando que nativescript trabalha com outros frameworks também)
 ```bash
 vue init nativescript-vue/vue-cli-template helloworld
@@ -66,6 +70,7 @@ npm install
 ```
 
 ####4. Iniciando via VSCODE
+
 Após a conclusão, abra o vscode pelo comando `code .` e execute em seu terminal:
 ```bash
 tns run android --bundle
@@ -95,4 +100,5 @@ tns run android --bundle
 ```
 
 ####Extra
+
 Para emular o android diretamente no computador, recomendo o uso do [Genymotion](https://www.genymotion.com/), que possui um plano free para uso pessoal
