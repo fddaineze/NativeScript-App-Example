@@ -9,7 +9,7 @@
 4. [Iniciando via VSCODE](https://github.com/fddaineze/NativeScript-App-Example/blob/master/README.md#4-iniciando-via-vscode)
 5. **[Resumo de comandos*](https://github.com/fddaineze/NativeScript-App-Example/blob/master/README.md#5-resumo-de-comandos)**
 
-#### 1. Instalação do pacote
+### 1. Instalação do pacote
 Primeiramente é necessário executar a linha de comando abaixo em modo **administrador**
 
 > ###### *Pressione a tecla Windows > Digite "CMD" > Botão direito > Executar como administrador*
@@ -40,7 +40,7 @@ As duas variáveis ​​de ambiente `JAVA_HOME` e `ANDROID_HOME` são necessár
 - execute `echo %JAVA_HOME%` and make sure a valid path is returned
 - execute `echo %ANDROID_HOME%` and make sure a valid path is returned
 
-#### 2. Instalação do NativeScript CLI
+### 2. Instalação do NativeScript CLI
 
 A instalação do NativeScript CLI é realizada via npm, portanto, não há segredo:
 ```bash
@@ -51,7 +51,7 @@ Será necessário também o vue/cli, caso não o tenha instalado, execute:
 npm install -g @vue/cli
 ```
 
-#### 3. Criando o Projeto
+### 3. Criando o Projeto
 
 Vamos começar com o template basico para **VUE** (lembrando que nativescript trabalha com outros frameworks também)
 ```bash
@@ -66,7 +66,7 @@ E instale todas as dependências necessárias (repare que a criação do projeto
 npm install
 ```
 
-#### 4. Iniciando via VSCODE
+### 4. Iniciando via VSCODE
 
 Após a conclusão, abra o vscode pelo comando `code .` e execute em seu terminal:
 ```bash
@@ -77,7 +77,7 @@ O tns irá construir o projeto, compilando e instalando a aplicação no emulado
 
 > Dica: Ative a depuração USB em seu celular e conecte via usb, isso será o suficiente para que o programa execute diretamente nele
 
-#### 5. Resumo de comandos
+### 5. Resumo de comandos
 
 ```bash
 @powershell -NoProfile -ExecutionPolicy Bypass -Command "iex ((new-object net.webclient).DownloadString('https://www.nativescript.org/setup/win'))"
@@ -95,6 +95,6 @@ npm install
 tns run android --bundle
 ```
 
-#### Extra
+### Extra
 
 Para emular o android diretamente no computador, recomendo o uso do Genymotion, que possui um plano free para uso pessoal
