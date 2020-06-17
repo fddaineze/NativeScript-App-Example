@@ -3,11 +3,11 @@
 ## UTILIZANDO NATIVESCRIPT + VUE PELA PRIMEIRA VEZ (Windows)
 
 - [Documentação Oficial](https://docs.nativescript.org/start/quick-setup)
-1. [Instalação-do-pacote](https://github.com/fddaineze/NativeScript-App-Example/blob/master/README.md#1.-Instalação-do-pacote)
-2. [Instalação do NativeScript CLI](https://github.com/fddaineze/NativeScript-App-Example/blob/master/README.md#2.-Instalação-do-NativeScript-CLI)
-3. [Criando o Projeto](https://github.com/fddaineze/NativeScript-App-Example/blob/master/README.md#3.-Criando-o-Projeto)
-4. [Iniciando via VSCODE](https://github.com/fddaineze/NativeScript-App-Example/blob/master/README.md#4.-Iniciando-via-VSCODE)
-5. **[Resumo de comandos*](https://github.com/fddaineze/NativeScript-App-Example/blob/master/README.md#5.-Resumo-de-comandos)**
+1. [Instalação-do-pacote](https://github.com/fddaineze/NativeScript-App-Example/blob/master/README.md#utilizando-nativescript--vue-pela-primeira-vez-windows)
+2. [Instalação do NativeScript CLI](https://github.com/fddaineze/NativeScript-App-Example/blob/master/README.md#-Instalação-do-NativeScript-CLI)
+3. [Criando o Projeto](https://github.com/fddaineze/NativeScript-App-Example/blob/master/README.md#-Criando-o-Projeto)
+4. [Iniciando via VSCODE](https://github.com/fddaineze/NativeScript-App-Example/blob/master/README.md#-Iniciando-via-VSCODE)
+5. **[Resumo de comandos*](https://github.com/fddaineze/NativeScript-App-Example/blob/master/README.md#-Resumo-de-comandos)**
 
 #### 1. Instalação do pacote
 Primeiramente é necessário executar a linha de comando abaixo em modo **administrador**
