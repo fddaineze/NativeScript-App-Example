@@ -9,8 +9,6 @@
 4. [Iniciando via VSCODE](4.-Iniciando-via-VSCODE)
 5. **[Resumo de comandos*](5.-Resumo-de-comandos)**
 
----
-
 ####1. Instalação do pacote
 
 Primeiramente é necessário executar a linha de comando abaixo em modo **administrador**
