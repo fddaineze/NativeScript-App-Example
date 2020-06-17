@@ -1,6 +1,5 @@
 ![last commit badge](https://badgen.net/github/last-commit/fddaineze/NativeScript-App-Example) ![license badge](https://badgen.net/github/license/fddaineze/NativeScript-App-Example) ![commits badge](https://badgen.net/github/commits/fddaineze/NativeScript-App-Example) ![github badge](https://badgen.net/badge/icon/github?icon=github&label)
 
-
 ##UTILIZANDO NATIVESCRIPT + VUE PELA PRIMEIRA VEZ (Windows)
 
 - [Documentação Oficial](https://docs.nativescript.org/start/quick-setup)
@@ -94,3 +93,6 @@ npm install
 
 tns run android --bundle
 ```
+
+####Extra
+Para emular o android diretamente no computador, recomendo o uso do [Genymotion](https://www.genymotion.com/), que possui um plano free para uso pessoal
