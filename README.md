@@ -1,4 +1,8 @@
-![last commit badge](https://badgen.net/github/last-commit/fddaineze/NativeScript-App-Example) ![license badge](https://badgen.net/github/license/fddaineze/NativeScript-App-Example) ![commits badge](https://badgen.net/github/commits/fddaineze/NativeScript-App-Example) ![github badge](https://badgen.net/badge/icon/github?icon=github&label)
+![GitHub top language](https://img.shields.io/github/languages/top/fddaineze/NativeScript-App-Example)
+![last commit badge](https://badgen.net/github/last-commit/fddaineze/NativeScript-App-Example)
+![license badge](https://badgen.net/github/license/fddaineze/NativeScript-App-Example)
+![commits badge](https://badgen.net/github/commits/fddaineze/NativeScript-App-Example)
+![github badge](https://badgen.net/badge/icon/github?icon=github&label)
 
 ## UTILIZANDO NATIVESCRIPT + VUE PELA PRIMEIRA VEZ (Windows)
 
